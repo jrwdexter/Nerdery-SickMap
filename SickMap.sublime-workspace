@@ -51,22 +51,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "SickMap/Scripts/Controllers/SickmapController.js",
-			"settings":
-			{
-				"buffer_size": 1442,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "SickMap/Scripts/Directives/Sickmap.js",
-			"settings":
-			{
-				"buffer_size": 10372,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -247,24 +231,26 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/SickMap/Scripts/Controllers/SickmapController.js",
+		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/SickMap/Scripts/Directives/Sickmap.js",
+		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/SickMap/Web.config",
+		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/SickMap/IndexModule.fs",
+		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/.gitignore",
+		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/.gitattributes",
+		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/SickMap/Views/index.sshtml",
 		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/SickMap/Web.Debug.config",
 		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/SickMap/SickMap.fsproj",
 		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/SickMap/Scripts/App.js",
 		"/C/Users/Jonathan/.vimperatorrc",
-		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/SickMap/Views/index.sshtml",
 		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/.grunt/Gruntfile.js",
-		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/SickMap/Scripts/Controllers/SickmapController.js",
 		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/SickMap/Scripts/Models/Sickcell.js",
 		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/SickMap/bin/Nancy.xml",
-		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/SickMap/Scripts/Directives/Sickmap.js",
-		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/.gitignore",
 		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/SickMap/Content/Styles/Sickmap.scss",
 		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/.git/config",
 		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/.grunt/node_modules/grunt/node_modules/findup-sync/lib/findup-sync.js",
 		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/SickMap/bin/FSharp.Core.xml",
 		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/SickMap/Content/Styles/Heatmap.css",
 		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/.grunt/package.json",
-		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/SickMap/IndexModule.fs",
 		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/.grunt/node_modules/grunt-contrib-uglify/test/fixtures/expected/sourcemap_prefix",
 		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/SickMap.sln",
 		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/.grunt/node_modules/grunt/node_modules/minimatch/test/extglob-ending-with-state-char.js",
@@ -372,9 +358,7 @@
 		"/C/Users/Jonathan/Documents/WindowsPowerShell/Scripts/PS2EXE/ps2exe.ps1",
 		"/C/Users/Jonathan/Dropbox/junction-box/WindowsPowerShell/Scripts/Games/adom-automation/ReloadLastSave.bat",
 		"/C/Users/Jonathan/Dropbox/junction-box/WindowsPowerShell/Scripts/Games/adom-automation/SaveAndBackup.ps1",
-		"/C/Users/Jonathan/Dropbox/junction-box/WindowsPowerShell/Scripts/Games/adom-automation/ReloadLastSave.ps1",
-		"/C/Users/Jonathan/Documents/WindowsPowerShell/Scripts/Local Code/Import-SourcePath.ps1",
-		"/C/Users/Jonathan/Dropbox/script/ruby/game/adom_automation/    from C"
+		"/C/Users/Jonathan/Dropbox/junction-box/WindowsPowerShell/Scripts/Games/adom-automation/ReloadLastSave.ps1"
 	],
 	"find":
 	{
@@ -566,293 +550,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "SickMap/Scripts/Controllers/SickmapController.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1442,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								810,
-								810
-							]
-						],
-						"settings":
-						{
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"gjslint_ignore":
-							[
-								110
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 2,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": true,
-							"sublimelinter_gutter_marks_theme": "simple",
-							"sublimelinter_mark_style": "none",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"C++": "c",
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true,
-							"vintage":
-							{
-								"action": null,
-								"action_digits":
-								[
-								],
-								"cancel_action": false,
-								"expecting_register": false,
-								"expecting_user_input": false,
-								"mode": 2,
-								"motion": null,
-								"motion_digits":
-								[
-								],
-								"next_mode": 2,
-								"next_mode_command": null,
-								"register": null,
-								"stashed_action": null,
-								"user_action_input": null,
-								"user_input": null,
-								"user_motion_input": null,
-								"xpos": 38
-							}
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "SickMap/Scripts/Directives/Sickmap.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 10372,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								7367,
-								7367
-							]
-						],
-						"settings":
-						{
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"gjslint_ignore":
-							[
-								110
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 2,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": true,
-							"sublimelinter_gutter_marks_theme": "simple",
-							"sublimelinter_mark_style": "none",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"C++": "c",
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true,
-							"vintage":
-							{
-								"action": null,
-								"action_digits":
-								[
-								],
-								"cancel_action": false,
-								"expecting_register": false,
-								"expecting_user_input": false,
-								"mode": 2,
-								"motion": null,
-								"motion_digits":
-								[
-								],
-								"next_mode": 2,
-								"next_mode_command": null,
-								"register": null,
-								"stashed_action": null,
-								"user_action_input": null,
-								"user_input": null,
-								"user_motion_input": null,
-								"xpos": 0
-							}
-						},
-						"translation.x": 0.0,
-						"translation.y": 2212.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -907,6 +606,18 @@
 		"selected_items":
 		[
 			[
+				".gitignore",
+				".gitignore"
+			],
+			[
+				"indexmod",
+				"SickMap\\IndexModule.fs"
+			],
+			[
+				"web.config",
+				"SickMap\\Web.config"
+			],
+			[
 				"direc",
 				"SickMap\\Scripts\\Directives\\Sickmap.js"
 			],
@@ -949,10 +660,6 @@
 			[
 				"proxycontro",
 				"MotionAnalyzer\\Rockwell.MotionAnalyzer.Web\\Controllers\\API\\ProxyController.cs"
-			],
-			[
-				"web.config",
-				"MotionAnalyzer\\Rockwell.MotionAnalyzer.Web\\Web.config"
 			],
 			[
 				"web.con",
@@ -1153,7 +860,7 @@
 	{
 		"vintage":
 		{
-			"last_buffer_search": "Zoom"
+			"last_buffer_search": "seating"
 		}
 	},
 	"show_minimap": true,

@@ -1,3 +1,6 @@
+# Sublime items
+*.sublime-workspace
+
 # Node items
 .sass-cache/
 node_modules/
