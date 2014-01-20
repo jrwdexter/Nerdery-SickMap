@@ -1,0 +1,28 @@
+﻿<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+      <title>SickMap</title>
+      <script type="text/javascript" data-main="/Scripts/Main" src="/Scripts/Lib/require.js" ></script>
+      <link href='http://fonts.googleapis.com/css?family=Freckle+Face' rel='stylesheet' type='text/css'></link>
+      <link rel="stylesheet" href="/Content/Styles/Sickmap.css"></link>
+      <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"></link>
+      <link rel="icon" href="/favicon.ico" type="image/x-icon"></link>
+    </head>
+  <body>
+    <div class="header">
+      <img alt="nerdery-logo" src="/Content/nerdery-logo.png" class="nerdery-logo" />
+      <h1>Sick Map</h1>
+      <h4>It's like the Marauder's map, but uhh... less healthy</h4>
+    </div>
+    <div ng-controller="SickmapController">
+      <div sickmap>
+      </div>
+    </div>
+    <span>Disclaimer: Bloomington 9555 only at the moment</span>
+    <h4>Documentation</h4>
+    <ul>
+      <li><a href="/docs/yui/index.html">Javascript</a></li>
+    </ul>
+  </body>
+</html>

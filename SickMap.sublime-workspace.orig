@@ -1,0 +1,1356 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"controll",
+				"Controller"
+			],
+			[
+				"initi",
+				"initialTime"
+			],
+			[
+				"lightt",
+				"lighttablePort"
+			],
+			[
+				"liverel",
+				"livereloadPort"
+			],
+			[
+				"ligh",
+				"lighttablePort"
+			],
+			[
+				"Hea",
+				"HeatSinkMass"
+			],
+			[
+				"Insert-Ro",
+				"Insert-RotaryPmMotor"
+			],
+			[
+				"max",
+				"MaxACInHybrid"
+			],
+			[
+				"MaxAC",
+				"MaxACInACOnly"
+			],
+			[
+				"latest",
+				"latest_save_full_path"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".grunt/package.json",
+			"settings":
+			{
+<<<<<<< HEAD
+				"buffer_size": 577,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Jonathan/.vimperatorrc",
+			"settings":
+			{
+				"buffer_size": 92,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "SickMap/Scripts/App.js",
+			"settings":
+			{
+				"buffer_size": 223,
+=======
+				"buffer_size": 949,
+>>>>>>> 61d3cab... Fixed the sublime project to exclude Raven, doc, bin, etc folders.
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 211.0,
+		"selected_items":
+		[
+			[
+				"pclist",
+				"Package Control: List Packages"
+			],
+			[
+				"ssjavascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssxml",
+				"Set Syntax: XML"
+			],
+			[
+				"inden",
+				"Indent XML"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"pcinst",
+				"Package Control: Install Package"
+			],
+			[
+				"format",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"json",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"ssjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"key ",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"user ",
+				"Preferences: Settings - User"
+			],
+			[
+				"sssql",
+				"Set Syntax: SQL"
+			],
+			[
+				"sspowersh",
+				"Set Syntax: Powershell v2"
+			],
+			[
+				"pcinsta",
+				"Package Control: Install Package"
+			],
+			[
+				"ssauto",
+				"Set Syntax: AutoHotkey"
+			],
+			[
+				"pcremo",
+				"Package Control: Remove Package"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"docblo",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"doc",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"pcsetting",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"extra",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"sublimelint",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"sublim",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"sublimelin",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"sspower",
+				"Set Syntax: Powershell v2"
+			],
+			[
+				"ssruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"build",
+				"Build: Build"
+			],
+			[
+				"ssru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"pcremov",
+				"Package Control: Remove Package"
+			],
+			[
+				"sspowe",
+				"Set Syntax: Powershell v2"
+			],
+			[
+				"ssbat",
+				"Set Syntax: Batch File"
+			],
+			[
+				"pcins",
+				"Package Control: Install Package"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"sspowe	",
+				"Set Syntax: Powershell v2"
+			]
+		],
+		"width": 434.0
+	},
+	"console":
+	{
+		"height": 317.0,
+		"history":
+		[
+			"environment",
+			"ENVIRONMENT",
+			"ENV",
+			"env"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+<<<<<<< HEAD
+		"/C/Users/Jonathan/.vimperatorrc",
+		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/SickMap/Views/index.sshtml",
+		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/SickMap/SickMap.fsproj",
+		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/.grunt/Gruntfile.js",
+		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/SickMap/Scripts/Controllers/SickmapController.js",
+		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/SickMap/Scripts/Models/Sickcell.js",
+		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/SickMap/bin/Nancy.xml",
+		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/SickMap/Scripts/Directives/Sickmap.js",
+		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/.gitignore",
+		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/SickMap/Content/Styles/Sickmap.scss",
+		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/.git/config",
+=======
+		"/C/src/!Self/SickMap/SickMap.sln",
+		"/C/src/!Self/SickMap/.gitattributes",
+		"/C/src/!Self/SickMap/SickMap.sublime-project",
+		"/C/src/!Self/SickMap/SickMap/Scripts/Models/Sickcell.js",
+		"/C/src/!Self/SickMap/SickMap/SickMap.fsproj",
+		"/C/src/!Self/SickMap/.grunt/Gruntfile.js",
+		"/C/src/!Self/SickMap/SickMap/Scripts/Controllers/SickmapController.js",
+		"/C/src/!Self/SickMap/SickMap/Scripts/Directives/Sickmap.js",
+		"/C/src/!Self/SickMap/SickMap/Content/Styles/Sickmap.scss",
+		"/C/src/!Self/SickMap/SickMap/bin/Nancy.xml",
+>>>>>>> 61d3cab... Fixed the sublime project to exclude Raven, doc, bin, etc folders.
+		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/.grunt/node_modules/grunt/node_modules/findup-sync/lib/findup-sync.js",
+		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/SickMap/bin/FSharp.Core.xml",
+		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/SickMap/Content/Styles/Heatmap.css",
+		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/.grunt/package.json",
+		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/SickMap/IndexModule.fs",
+		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/.grunt/node_modules/grunt-contrib-uglify/test/fixtures/expected/sourcemap_prefix",
+		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/SickMap.sln",
+		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/.grunt/node_modules/grunt/node_modules/minimatch/test/extglob-ending-with-state-char.js",
+		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/.grunt/node_modules/grunt-contrib-watch/node_modules/tiny-lr/node_modules/faye-websocket/examples/autobahn_client.js",
+		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/SickMap/Scripts/App.js",
+		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/SickMap/Content/Styles/Heatmap.scss",
+		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/SickMap/Scripts/Main.js",
+		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/.grunt/Gemfile",
+		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/SickMap/Content/Scripts/Controllers/HeatmapController.js",
+		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/SickMap/Content/Scripts/Directives/SickHeatmap.js",
+		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/SickMap/.gitattributes",
+		"/C/Users/Jonathan/Documents/Visual Studio 2013/Projects/SickMap/SickMap/Content/Scripts/Directives/Heatmap.js",
+		"/C/src/Rockwell/MotionAnalyzer/Rockwell.MotionAnalyzer.Web/Web.config",
+		"/C/src/Rockwell/MotionAnalyzer/Rockwell.MotionAnalyzer.Web/Scripts/app.js",
+		"/C/src/Rockwell/MotionAnalyzer/Rockwell.MotionAnalyzer.WebService/%home%",
+		"/C/src/Rockwell/MotionAnalyzer/scripts/migrations/Migrate-Motors.ps1",
+		"/C/src/Rockwell/MotionAnalyzer/scripts/migrations/Migrate-Mechanisms.ps1",
+		"/C/src/Rockwell/MotionAnalyzer/scripts/migrations/Migrate-Drives.ps1",
+		"/C/src/Rockwell/MotionAnalyzer/Tests/Rockwell.MotionAnalyzer.Implementation/Rockwell.MotionAnalyzer.Implementation.csproj",
+		"/C/src/Rockwell/MotionAnalyzer/scripts/documentation/ModelWriter.ps1",
+		"/C/src/Rockwell/MotionAnalyzer/Rockwell.SQL/Rockwell.SQL.MotionAnalyzer/Rockwell.SQL.MotionAnalyzer.Setup/4 - Library.sql",
+		"/C/src/Rockwell/MotionAnalyzer/Rockwell.MotionAnalyzer.Web/Scripts/services/LibraryService.js",
+		"/C/src/Rockwell/MotionAnalyzer/Rockwell.MotionAnalyzer.Model/Data/LibraryItem.cs",
+		"/C/src/Rockwell/MotionAnalyzer/Rockwell.MotionAnalyzer.Service/LICENSE.txt",
+		"/C/Users/Jonathan/Downloads/motionanalyzer.azurewebsites.net.PublishSettings",
+		"/C/Users/Jonathan/Downloads/motionanalyzerapi.azurewebsites.net.PublishSettings",
+		"/C/Users/Jonathan/AppData/Local/Temp/motionanalyzer.azurewebsites.net.PublishSettings",
+		"/C/Users/Jonathan/AppData/Local/Temp/ccx1W9Ol",
+		"/C/Users/Jonathan/AppData/Local/Temp/NbkMR2yr",
+		"/C/src/Rockwell/MotionAnalyzer/Rockwell.MotionAnalyzer.Web/Controllers/API/ProxyController.cs",
+		"/C/src/Rockwell/MotionAnalyzer/DatabaseMappings/Product.cs",
+		"/C/src/Rockwell/MotionAnalyzer/Rockwell.MotionAnalyzer.Common/Enums/ProductRequirement.cs",
+		"/C/src/Rockwell/MotionAnalyzer/package.json",
+		"/C/src/Rockwell/MotionAnalyzer/Rockwell.MotionAnalyzer.Data/App.Config",
+		"/C/src/Rockwell/MotionAnalyzer/Rockwell.MotionAnalyzer.WebService/OData/ODataActionsParsing/ActionParsingPathHandler.cs",
+		"/C/src/Rockwell/MotionAnalyzer/Rockwell.MotionAnalyzer.Web/Scripts/controllers/Axis/AxisPerformanceController.js",
+		"/C/src/Rockwell/MotionAnalyzer/Rockwell.MotionAnalyzer.AlgorithmService/app.config",
+		"/C/Users/Jonathan/.ssh/known_hosts",
+		"/C/src/Rockwell/MotionAnalyzer/Rockwell.MotionAnalyzer.Data/SQL/RockwellData.Schema.sql",
+		"/C/Users/Jonathan/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Jonathan/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Jonathan/AppData/Local/Temp/client_secret_96704412215-4i6vah89ce8jkvlrm866g21gm2jqpe15.apps.googleusercontent.com.json",
+		"/C/temp/test.csx",
+		"/C/src/Rockwell/MotionAnalyzer/Rockwell.MotionAnalyzer.Data/SQL/RockwellData.edmx",
+		"/C/Users/Jonathan/Documents/doc_rptObjects.txt",
+		"/C/Users/Jonathan/Dropbox/script/conemu/startup.txt",
+		"/C/src/Rockwell/MotionAnalyzer/Rockwell.MotionAnalyzer.WebService/Controllers/Base/ProductsController.cs",
+		"/C/src/Rockwell/MotionAnalyzer/Rockwell.MotionAnalyzer.WebService/Controllers/Products/ProductAttributesController.cs",
+		"/C/src/Rockwell/MotionAnalyzer/Rockwell.MotionAnalyzer.WebService/Controllers/Base/BaseODataController.cs",
+		"/C/src/Rockwell/MotionAnalyzer/.git/config",
+		"/C/Users/Jonathan/Dropbox/data/performance/ssd/Data.csv",
+		"/C/src/Rockwell/MotionAnalyzer/Rockwell.MotionAnalyzer.Algorithm/Rockwell.MotionAnalyzer.Algorithm.csproj",
+		"/C/Users/Jonathan/.gitconfig",
+		"/C/src/Rockwell/MotionAnalyzer/Rockwell.MotionAnalyzer.WebService/Web.config",
+		"/C/Users/Jonathan/Dropbox/!setup/.git/config",
+		"/C/Users/Jonathan/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/src/Rockwell/MotionAnalyzer/Rockwell.MotionAnalyzer.Web/Views/Shared/_Layout.cshtml",
+		"/C/src/Rockwell/MotionAnalyzer/Rockwell.MotionAnalyzer.Web/Scripts/controllers/PageController.js",
+		"/C/src/Rockwell/MotionAnalyzer/Rockwell.MotionAnalyzer.Web/Scripts/services/GoogleAnalyticsService.js",
+		"/C/src/Rockwell/MotionAnalyzer/Rockwell.MotionAnalyzer.Web/Scripts/services.js",
+		"/C/src/Rockwell/MotionAnalyzer/Rockwell.MotionAnalyzer.WebService/Controllers/Users/InternalNotificationController.cs",
+		"/C/Users/Jonathan/Dropbox/tools/autohotkey/Craft.ahk",
+		"/C/src/Rockwell/MotionAnalyzer/scripts/api/TargetFolders",
+		"/C/src/Rockwell/MotionAnalyzer/scripts/api/TargetApi",
+		"/C/src/Rockwell/MotionAnalyzer/.gitignore",
+		"/C/src/Rockwell/MotionAnalyzer/postman/collections/Rockwell.json",
+		"/C/Windows/System32/Drivers/etc/hosts",
+		"/C/src/Rockwell/MotionAnalyzer/Tests/Rockwell.MotionAnalyzer.Tests/Services/UserServiceTests.cs",
+		"/C/mail/4d5359ec-e6db-42ca-bfed-df1fae1ff345.eml",
+		"/C/mail/09189884-6470-412c-96eb-3ac271233e6c.eml",
+		"/C/src/Rockwell/MotionAnalyzer/_build/Gruntfile.js",
+		"/C/temp/FFXIV ARR Assistant.ahk",
+		"/C/Users/Jonathan/Dropbox/tools/autohotkey/spotify.ahk",
+		"/C/src/Rockwell/MotionAnalyzer/Prototypes/Graph/D3Angular/Scripts/pages/DriveMotorAxis.js",
+		"/C/src/Rockwell/MotionAnalyzer/Prototypes/Graph/D3Angular/Views/Profile/EditProfile.cshtml",
+		"/C/src/Rockwell/MotionAnalyzer/Prototypes/Graph/D3Angular/Scripts/prototype/graphing/Segment.js",
+		"/C/src/Rockwell/MotionAnalyzer/Prototypes/Graph/D3Angular/Scripts/prototype/graphing/GraphController.js",
+		"/C/src/Rockwell/MotionAnalyzer/Prototypes/Graph/D3Angular/Scripts/pages/Profile.js",
+		"//irvine.nerderylabs.com/D$/vweb/ROCKWELL.MotionAnalyzer.fe.nerderylabs.com/prototype_web/_PublishedWebsites/D3Angular/Web.config",
+		"/C/src/Rockwell/MotionAnalyzer/scripts/migrations/ReadMe.txt",
+		"/C/src/Rockwell/MotionAnalyzer/Prototypes/Graph/D3Angular/Scripts/d3/simple-graph.js",
+		"/C/src/Rockwell/MotionAnalyzer/Prototypes/Graph/D3Angular/Scripts/prototype/graphing.js",
+		"/C/src/Rockwell/MotionAnalyzer/packages/EntityFramework.5.0.0/tools/init.ps1",
+		"/C/src/Rockwell/MotionAnalyzer/Prototypes/Graph/D3Angular/Scripts/d3/Graph.js",
+		"/C/src/Rockwell/MotionAnalyzer/Prototypes/Graph/D3Angular/Scripts/d3/FunctionPlot-App.js",
+		"/C/src/Rockwell/MotionAnalyzer/Prototypes/Graph/D3Angular/Scripts/d3/Point.js",
+		"/C/Users/Jonathan/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Jonathan/Documents/Fiddler2/Scripts/CustomRules.js",
+		"/C/Users/Jonathan/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/src/Rockwell/MotionAnalyzer/scripts/Migrate-Motors.ps1",
+		"/C/Users/Jonathan/Dropbox/script/ruby/game/adom_automation/save_and_backup.rb",
+		"/C/Program Files (x86)/StyleCop 4.7/StyleCop.Targets",
+		"/C/Users/Jonathan/Dropbox/script/ruby/game/adom_automation/reload_last_save.rb",
+		"/C/Users/Jonathan/Dropbox/script/ps/Games/ADOM/ReloadLastSave.ps1",
+		"/C/src/Rockwell/MotionAnalyzer/packages/Nerdery.CSharpCodeStyle.1.1/tools/Settings.StyleCop",
+		"/C/src/Rockwell/MotionAnalyzer/packages/Nerdery.CSharpCodeStyle.1.1/tools/StyleCop.Targets",
+		"/C/src/Rockwell/MotionAnalyzer/scripts/MotorMigration.ps1",
+		"/C/src/Rockwell/MotionAnalyzer/Settings.StyleCop",
+		"/C/src/Rockwell/MotionAnalyzer/packages/Nerdery.CSharpCodeStyle.1.1/tools/Settings-ProjectOverrides.StyleCop",
+		"/C/src/Rockwell/MotionAnalyzer/Rockwell.MotionAnalyzer.Algorithm/Settings.StyleCop",
+		"/C/Users/Jonathan/AppData/Roaming/scriptcs/scriptcs.exe.config",
+		"/C/Program Files (x86)/Meld/meld/bin/meld",
+		"/C/Chocolatey/bin/meld.sh",
+		"/C/Users/Jonathan/AppData/Local/Symbols/src/pdbsrc/Public/public/42B475~1/PAPABEAR/Jonathan/SYSTEM~1.ODA/0BB292~1/SYSTEM~1.ODA/SYSTEM~1.ODA/OData/Routing/DefaultODataPathHandler.cs",
+		"/C/Users/Jonathan/AppData/Local/Symbols/src/pdbsrc/Public/public/42B475~1/PAPABEAR/Jonathan/SYSTEM~1.ODA/0BB292~1/SYSTEM~1.ODA/SYSTEM~1.ODA/OData/Routing/CONVEN~1/ActionMapExtensions.cs",
+		"/C/Users/Jonathan/Documents/WindowsPowerShell/Scripts/PS2EXE/ps2exe.ps1",
+<<<<<<< HEAD
+		"/C/Users/Jonathan/Dropbox/junction-box/WindowsPowerShell/Scripts/Games/adom-automation/ReloadLastSave.bat",
+		"/C/Users/Jonathan/Dropbox/junction-box/WindowsPowerShell/Scripts/Games/adom-automation/SaveAndBackup.ps1",
+		"/C/Users/Jonathan/Dropbox/junction-box/WindowsPowerShell/Scripts/Games/adom-automation/ReloadLastSave.ps1",
+		"/C/Users/Jonathan/Documents/WindowsPowerShell/Scripts/Local Code/Import-SourcePath.ps1",
+		"/C/Users/Jonathan/Dropbox/script/ruby/game/adom_automation/    from C",
+		"/C/Users/Jonathan/Dropbox/junction-box/WindowsPowerShell/Scripts/Games/Adom Automation/SaveAndBackup.bat"
+=======
+		"/C/Users/Jonathan/Dropbox/junction-box/WindowsPowerShell/Scripts/Games/adom-automation/ReloadLastSave.bat"
+>>>>>>> 61d3cab... Fixed the sublime project to exclude Raven, doc, bin, etc folders.
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"",
+			"*.csproj",
+			"*.cs",
+			"",
+			"C:\\src\\Rockwell\\MotionAnalyzer\\Rockwell.MotionAnalyzer.WebService",
+			"C:\\src\\Rockwell\\MotionAnalyzer\\Rockwell.MotionAnalyzer.WebService\\"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"&",
+			"THIS_IS_YOUR_CODE",
+			"&",
+			"false",
+			"Heatmap",
+			"+ /",
+			"+ ",
+			"x",
+			" +",
+			"self.context",
+			"\n            ",
+			".",
+			"&",
+			"%20",
+			"\\/\\/.*",
+			"//.*",
+			"\\[dbo\\].(\\[UserSettings\\])",
+			"\\[dbo\\].(\\[Users\\])",
+			"\\[dbo\\].(\\[UserRole\\])",
+			"\\[dbo\\].(\\[UserNotificationType\\])",
+			"\\[dbo\\].(\\[UserLibraryItemAccessLevels\\])",
+			"\\[dbo\\].(\\[Roles\\])",
+			"\\[dbo\\].(\\[RolePermission\\])",
+			"\\[dbo\\].(\\[Permissions\\])",
+			"\\[dbo\\].(\\[NotificationTypes\\])",
+			"\\[dbo\\].(\\[NotificationSubjectTemplates\\])",
+			"\\[dbo\\].(\\[NotificationBodyTemplates\\])",
+			"\\[dbo\\].[NotificationBodyTemplates]",
+			"sers].[NotificationBodyTemplates]",
+			"sers].[InternalNotificationUsers]",
+			"\\[dbo\\].(\\[InternalNotifications\\])",
+			"\\[dbo\\].(\\[AccessLevels\\])",
+			"Entity",
+			"Get\\(ODataQuery",
+			"Get(ODataQuery",
+			"FK_.*MotionProfile",
+			"UNIQUE.*Axes",
+			"\"",
+			"Alter Table .*Axes",
+			"Alter Table Axes",
+			"CREATE.*INDEX",
+			"object (\\w+)\\s*=.*\\1.*\\1",
+			"object (\\w*).*\\1.*\\1",
+			"object (\\w*).*$1",
+			"100\\.",
+			"RolePermission{",
+			"ff_id",
+			"\"FINAL FANTASY\"",
+			"Send",
+			"var",
+			"this.options.sync.xmin",
+			"this.options.sync.xmax",
+			"this.options.x",
+			"var",
+			"position",
+			"{",
+			"string",
+			"inputString",
+			"@property",
+			"contain",
+			" *",
+			"Name    Level\n",
+			"\n    ",
+			"png",
+			"PROTOTYPE.Graph",
+			"topN",
+			"Console.Write",
+			"PRODUCT",
+			"(\\w)(\\w*)",
+			"(\\w",
+			"$familyName",
+			"Torque",
+			"]",
+			"=",
+			" =",
+			",",
+			"'],",
+			"]",
+			"Escape-WithNull",
+			"$i",
+			"Escape-WithZero",
+			"] ",
+			"]",
+			"[LeadScrewEfficiency]\n[LeadScrewInertia]\n[LeadScrewPitch]\n[LeadScrewPreload]\n",
+			" //",
+			"TLAR",
+			"[TransmissionEfficiency]\n[TransmissionInertia]\n",
+			" //",
+			"MPAR",
+			"Cont",
+			" //",
+			"MPAI",
+			" //",
+			"MPAS",
+			"//",
+			" //",
+			"MPAS",
+			" ",
+			"//",
+			"LDAT",
+			"Pitch",
+			"Add",
+			"base",
+			"Get-DataTable",
+			"connection",
+			"  NOT NULL",
+			"Capacitence",
+			"    ",
+			"]",
+			"FrameSize",
+			"  NOT NULL",
+			"^(\\w*).*",
+			"  NOT NULL,\n",
+			"Torque",
+			"^(\\w*).*",
+			"        /// <exception cref=\"System.NotImplementedException\"></exception>\n",
+			"double (.)",
+			"\n ",
+			"\\\\t",
+			"\\\\r\\\\n",
+			"\\\\t",
+			"\\\\r\\\\n",
+			"\\\\t",
+			"\\t",
+			"\\r\\n",
+			"\\r",
+			"/",
+			"exit"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"x",
+			"& \n",
+			" \n",
+			"",
+			"[Users].\\1",
+			"$1\\L$2",
+			"$1\\U$2",
+			"$1\\l$2",
+			"$1",
+			"double _\\l\\1",
+			"\\t",
+			"\\n",
+			"\\t",
+			"\\n",
+			"\\r\\n",
+			"\\r",
+			"\\t",
+			"{TAB}",
+			"Owner",
+			"Onwer\\\\\": \\\\\"testUser@nerdery.com\\\\\"",
+			"\\n",
+			"",
+			"-"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+<<<<<<< HEAD
+			"selected": 2,
+=======
+			"selected": 0,
+>>>>>>> 61d3cab... Fixed the sublime project to exclude Raven, doc, bin, etc folders.
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".grunt/package.json",
+					"semi_transient": true,
+					"settings":
+					{
+<<<<<<< HEAD
+						"buffer_size": 577,
+=======
+						"buffer_size": 949,
+>>>>>>> 61d3cab... Fixed the sublime project to exclude Raven, doc, bin, etc folders.
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+<<<<<<< HEAD
+								569,
+								569
+=======
+								0,
+								0
+>>>>>>> 61d3cab... Fixed the sublime project to exclude Raven, doc, bin, etc folders.
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+<<<<<<< HEAD
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"action": null,
+								"action_digits":
+								[
+								],
+								"cancel_action": false,
+								"expecting_register": false,
+								"expecting_user_input": false,
+								"mode": 2,
+								"motion": null,
+								"motion_digits":
+								[
+								],
+								"next_mode": 2,
+								"next_mode_command": null,
+								"register": null,
+								"stashed_action": null,
+								"user_action_input": null,
+								"user_input": null,
+								"user_motion_input": null,
+								"xpos": 0
+							}
+=======
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+>>>>>>> 61d3cab... Fixed the sublime project to exclude Raven, doc, bin, etc folders.
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+<<<<<<< HEAD
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Jonathan/.vimperatorrc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 92,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								92,
+								92
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"vintage":
+							{
+								"action": null,
+								"action_digits":
+								[
+								],
+								"cancel_action": false,
+								"expecting_register": false,
+								"expecting_user_input": false,
+								"mode": 2,
+								"motion": null,
+								"motion_digits":
+								[
+								],
+								"next_mode": 2,
+								"next_mode_command": null,
+								"register": null,
+								"stashed_action": null,
+								"user_action_input": null,
+								"user_input": null,
+								"user_motion_input": null,
+								"xpos": 32
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "SickMap/Scripts/App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 223,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"vintage":
+							{
+								"action": null,
+								"action_digits":
+								[
+								],
+								"cancel_action": false,
+								"expecting_register": false,
+								"expecting_user_input": false,
+								"mode": 2,
+								"motion": null,
+								"motion_digits":
+								[
+								],
+								"next_mode": 2,
+								"next_mode_command": null,
+								"register": null,
+								"stashed_action": null,
+								"user_action_input": null,
+								"user_input": null,
+								"user_motion_input": null,
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+=======
+					"stack_index": 0,
+					"type": "text"
+>>>>>>> 61d3cab... Fixed the sublime project to exclude Raven, doc, bin, etc folders.
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 106.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "SickMap.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+<<<<<<< HEAD
+				"app.js",
+				"SickMap\\Scripts\\App.js"
+			],
+			[
+				"index.ss",
+				"SickMap\\Views\\index.sshtml"
+=======
+				".scss",
+				"SickMap\\Content\\Styles\\Sickmap.scss"
+			],
+			[
+				"sickmap.scss",
+				"SickMap\\Content\\Styles\\Sickmap.scss"
+>>>>>>> 61d3cab... Fixed the sublime project to exclude Raven, doc, bin, etc folders.
+			],
+			[
+				"fsproj",
+				"SickMap\\SickMap.fsproj"
+			],
+			[
+				"package",
+				".grunt\\package.json"
+			],
+			[
+				"sickcell",
+				"SickMap\\Scripts\\Models\\Sickcell.js"
+			],
+			[
+				"gruntfile",
+				".grunt\\Gruntfile.js"
+			],
+			[
+				"migrate-",
+				"MotionAnalyzer\\scripts\\migrations\\Migrate-Drives.ps1"
+			],
+			[
+				"library.sql",
+				"MotionAnalyzer\\Rockwell.SQL\\Rockwell.SQL.MotionAnalyzer\\Rockwell.SQL.MotionAnalyzer.Setup\\4 - Library.sql"
+			],
+			[
+				"proxycontro",
+				"MotionAnalyzer\\Rockwell.MotionAnalyzer.Web\\Controllers\\API\\ProxyController.cs"
+			],
+			[
+				"web.config",
+				"MotionAnalyzer\\Rockwell.MotionAnalyzer.Web\\Web.config"
+			],
+			[
+				"web.con",
+				"MotionAnalyzer\\Rockwell.MotionAnalyzer.WebService\\Web.config"
+			],
+			[
+				"schema.sql",
+				"MotionAnalyzer\\Rockwell.MotionAnalyzer.Data\\SQL\\RockwellData.Schema.sql"
+			],
+			[
+				"edmx",
+				"MotionAnalyzer\\Rockwell.MotionAnalyzer.Data\\SQL\\RockwellData.edmx"
+			],
+			[
+				"rockwell.schema.sql",
+				"MotionAnalyzer\\Rockwell.MotionAnalyzer.Data\\SQL\\RockwellData.Schema.sql"
+			],
+			[
+				"schem.sql",
+				"MotionAnalyzer\\Rockwell.MotionAnalyzer.Data\\SQL\\RockwellData.Schema.sql"
+			],
+			[
+				"rockwell.motionanalyzer.algorithm.",
+				"MotionAnalyzer\\Rockwell.MotionAnalyzer.Algorithm\\Rockwell.MotionAnalyzer.Algorithm.csproj"
+			],
+			[
+				"model.ps1",
+				"MotionAnalyzer\\scripts\\documentation\\ModelWriter.ps1"
+			],
+			[
+				"internalnotificationcontroller",
+				"MotionAnalyzer\\Rockwell.MotionAnalyzer.WebService\\Controllers\\Users\\InternalNotificationController.cs"
+			],
+			[
+				"_layout.cshtml",
+				"MotionAnalyzer\\Rockwell.MotionAnalyzer.Web\\Views\\Shared\\_Layout.cshtml"
+			],
+			[
+				"pagecont",
+				"MotionAnalyzer\\Rockwell.MotionAnalyzer.Web\\Scripts\\controllers\\PageController.js"
+			],
+			[
+				"services.js",
+				"MotionAnalyzer\\Rockwell.MotionAnalyzer.Web\\Scripts\\services.js"
+			],
+			[
+				"googleanlay",
+				"MotionAnalyzer\\Rockwell.MotionAnalyzer.Web\\Scripts\\services\\GoogleAnalyticsService.js"
+			],
+			[
+				".gitignor",
+				"MotionAnalyzer\\.gitignore"
+			],
+			[
+				"target",
+				"MotionAnalyzer\\scripts\\api\\TargetApi"
+			],
+			[
+				"targetfol",
+				"MotionAnalyzer\\scripts\\api\\TargetFolders"
+			],
+			[
+				"rockwell.json",
+				"MotionAnalyzer\\postman\\collections\\Rockwell.json"
+			],
+			[
+				"gruntfile.js",
+				"MotionAnalyzer\\_build\\Gruntfile.js"
+			],
+			[
+				"userservicetests",
+				"MotionAnalyzer\\Tests\\Rockwell.MotionAnalyzer.Tests\\Services\\UserServiceTests.cs"
+			],
+			[
+				"rockwelldata.sche",
+				"MotionAnalyzer\\Rockwell.MotionAnalyzer.Data\\SQL\\RockwellData.Schema.sql"
+			],
+			[
+				"gitignore",
+				"MotionAnalyzer\\.gitignore"
+			],
+			[
+				"editprofile",
+				"MotionAnalyzer\\Prototypes\\Graph\\D3Angular\\Views\\Profile\\EditProfile.cshtml"
+			],
+			[
+				"editprofile.cshtml",
+				"MotionAnalyzer\\Prototypes\\Graph\\D3Angular\\Views\\Profile\\EditProfile.cshtml"
+			],
+			[
+				"profile.js",
+				"MotionAnalyzer\\Prototypes\\Graph\\D3Angular\\Scripts\\pages\\Profile.js"
+			],
+			[
+				"segment.js",
+				"MotionAnalyzer\\Prototypes\\Graph\\D3Angular\\Scripts\\prototype\\graphing\\Segment.js"
+			],
+			[
+				"graphcontro",
+				"MotionAnalyzer\\Prototypes\\Graph\\D3Angular\\Scripts\\prototype\\graphing\\GraphController.js"
+			],
+			[
+				".ps1",
+				"MotionAnalyzer\\packages\\EntityFramework.5.0.0\\tools\\init.ps1"
+			],
+			[
+				"graphing.js",
+				"MotionAnalyzer\\Prototypes\\Graph\\D3Angular\\Scripts\\prototype\\graphing.js"
+			],
+			[
+				"simple-graph",
+				"MotionAnalyzer\\Prototypes\\Graph\\D3Angular\\Scripts\\d3\\simple-graph.js"
+			],
+			[
+				"simplegraph",
+				"MotionAnalyzer\\Prototypes\\Graph\\D3Angular\\Scripts\\d3\\simple-graph.js"
+			],
+			[
+				"point.js",
+				"MotionAnalyzer\\Prototypes\\Graph\\D3Angular\\Scripts\\d3\\Point.js"
+			],
+			[
+				"graph.js",
+				"MotionAnalyzer\\Prototypes\\Graph\\D3Angular\\Scripts\\d3\\Graph.js"
+			],
+			[
+				"migrate-motors",
+				"MotionAnalyzer\\scripts\\Migrate-Motors.ps1"
+			],
+			[
+				"motionanalyzer.algorithm.csproj",
+				"MotionAnalyzer\\Rockwell.MotionAnalyzer.Algorithm\\Rockwell.MotionAnalyzer.Algorithm.csproj"
+			],
+			[
+				"rockwell.motionanalyzer.tests.",
+				"MotionAnalyzer\\Tests\\Rockwell.MotionAnalyzer.Tests\\Rockwell.MotionAnalyzer.Tests.csproj"
+			],
+			[
+				"model.csproj",
+				"MotionAnalyzer\\Rockwell.MotionAnalyzer.Model\\Rockwell.MotionAnalyzer.Model.csproj"
+			],
+			[
+				"service.csproj",
+				"MotionAnalyzer\\Rockwell.MotionAnalyzer.Service\\Rockwell.MotionAnalyzer.Service.csproj"
+			],
+			[
+				"rockwell.ravend",
+				"MotionAnalyzer\\Cloud\\Rockwell.MotionAnalyzer.RavenDb\\Rockwell.MotionAnalyzer.RavenDb.csproj"
+			],
+			[
+				"mydear",
+				"My dearest Pixie,"
+			],
+			[
+				"ravendb.csproj",
+				"MotionAnalyzer\\Cloud\\Rockwell.MotionAnalyzer.RavenDb\\Rockwell.MotionAnalyzer.RavenDb.csproj"
+			],
+			[
+				"rockwell.motionanalyzer.webservice.cspro",
+				"MotionAnalyzer\\Rockwell.MotionAnalyzer.WebService\\Rockwell.MotionAnalyzer.WebService.csproj"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"rock",
+				"C:\\proj\\[Rockwell] Motion Analyzer.sublime-project"
+			],
+			[
+				"script",
+				"C:\\proj\\scripts.sublime-project"
+			],
+			[
+				"scrip",
+				"C:\\proj\\scripts.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+		"vintage":
+		{
+			"last_buffer_search": "yui"
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 318.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
