@@ -50,7 +50,7 @@ type IndexModule() as x =
         client
         |> Sickmap.Mail.GetNewestEmailMatching("Notice Update for")
         |> (fun message -> message.Body.Text.Split('\r'))
-        |> Seq.filter(fun entry -> entry.Contains("(") && entry.Contains("PTO") && not(entry.Contains("back")))
+        |> Seq.filter(fun entry -> entry.Contains("(") && entry.Contains("PTO") && not(entry.ToLower().Contains("returning")) && not(entry.ToLower().Contains("in by")))
         |> Seq.map (fun entry -> Regex.Replace(entry, "\\(.*\\)","").Trim())
         |> Newtonsoft.Json.JsonConvert.SerializeObject
         |> box
